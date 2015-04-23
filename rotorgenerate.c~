@@ -1,9 +1,8 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include<time.h>
-#include<stdbool.h>
 
-bool isThere(int rotor[], int size, int input);
+bool isThere(char* rotor, char input);
 
 int main(){
     srand(time(NULL));
@@ -14,31 +13,27 @@ int main(){
 
     int l = 0;
 
-    int temp1, temp2, temp3;
-    int size1, size2, size3;
-    size1 = size2 = size3 = 0;
+    char temp1, temp2, temp3;
 
     for(l = 0; l < 94; l++){
         temp1 = ((rand()%94) + 32);
-        size1++;
-        if(isThere(i, size1, temp1)){
-           while(isThere(i, size1, temp1)){
+        if(isThere(i, temp1)){
+           while(isThere(i, temp1)){
                 temp1 = ((rand()%94)+32);
            }
         }
         i[l] = temp1;
 
         temp2 = ((rand()%94) + 32);
-        size2++;
-        if(isThere(j, size2, temp2)){
-            while(isThere(j, size2, temp2)){
+        if(isThere(j, temp2)){
+            while(isThere(j, temp2)){
                 temp2 = ((rand()%94)+32);
             }
         }
         j[l] = temp2;
         temp3 = ((rand()%94) + 32);
-        if(isThere(k, size3, temp3)){
-            while(isThere(k, size3, temp3)){
+        if(isThere(k, temp3)){
+            while(isThere(k, temp3)){
                 temp3 = ((rand()%94)+35);
             }
         }
@@ -66,18 +61,3 @@ int main(){
     return 0;
 }
 
-bool isThere(int rotor[], int size, int input){
-    bool isitThere = false;
-
-    int i;
-
-    for(i = 0; i < size; i++){
-        if(input == rotor[i]){
-            printf("%d\n", rotor[i]);
-            isitThere = true;
-            break;
-        }
-    }
-    printf("Is it there? %s\n", isitThere ? "true":"false");
-    return isitThere;
-}

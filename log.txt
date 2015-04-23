@@ -1,0 +1,2134 @@
+Is it there? false
+Is it there? false
+Is it there? false
+Is it there? false
+Is it there? false
+Is it there? false
+Is it there? false
+Is it there? false
+Is it there? false
+Is it there? false
+Is it there? false
+Is it there? false
+Is it there? false
+Is it there? false
+Is it there? false
+Is it there? false
+Is it there? false
+Is it there? false
+Is it there? false
+Is it there? false
+Is it there? false
+Is it there? false
+Is it there? false
+Is it there? false
+Is it there? false
+Is it there? false
+Is it there? false
+Is it there? false
+Is it there? false
+Is it there? false
+Is it there? false
+Is it there? false
+Is it there? false
+Is it there? false
+68
+Is it there? true
+68
+Is it there? true
+Is it there? false
+Is it there? false
+117
+Is it there? true
+117
+Is it there? true
+Is it there? false
+88
+Is it there? true
+88
+Is it there? true
+Is it there? false
+Is it there? false
+Is it there? false
+Is it there? false
+Is it there? false
+Is it there? false
+Is it there? false
+Is it there? false
+117
+Is it there? true
+117
+Is it there? true
+121
+Is it there? true
+Is it there? false
+63
+Is it there? true
+63
+Is it there? true
+Is it there? false
+Is it there? false
+Is it there? false
+Is it there? false
+Is it there? false
+Is it there? false
+Is it there? false
+Is it there? false
+81
+Is it there? true
+81
+Is it there? true
+112
+Is it there? true
+100
+Is it there? true
+Is it there? false
+Is it there? false
+Is it there? false
+Is it there? false
+Is it there? false
+Is it there? false
+Is it there? false
+Is it there? false
+Is it there? false
+Is it there? false
+Is it there? false
+Is it there? false
+81
+Is it there? true
+81
+Is it there? true
+Is it there? false
+Is it there? false
+Is it there? false
+121
+Is it there? true
+121
+Is it there? true
+Is it there? false
+113
+Is it there? true
+113
+Is it there? true
+Is it there? false
+Is it there? false
+Is it there? false
+Is it there? false
+Is it there? false
+116
+Is it there? true
+116
+Is it there? true
+Is it there? false
+Is it there? false
+Is it there? false
+Is it there? false
+Is it there? false
+Is it there? false
+Is it there? false
+113
+Is it there? true
+113
+Is it there? true
+93
+Is it there? true
+Is it there? false
+Is it there? false
+53
+Is it there? true
+53
+Is it there? true
+Is it there? false
+Is it there? false
+Is it there? false
+Is it there? false
+122
+Is it there? true
+122
+Is it there? true
+Is it there? false
+Is it there? false
+Is it there? false
+Is it there? false
+Is it there? false
+121
+Is it there? true
+121
+Is it there? true
+Is it there? false
+Is it there? false
+Is it there? false
+100
+Is it there? true
+100
+Is it there? true
+68
+Is it there? true
+Is it there? false
+Is it there? false
+Is it there? false
+Is it there? false
+104
+Is it there? true
+104
+Is it there? true
+Is it there? false
+Is it there? false
+Is it there? false
+93
+Is it there? true
+93
+Is it there? true
+Is it there? false
+Is it there? false
+87
+Is it there? true
+87
+Is it there? true
+113
+Is it there? true
+Is it there? false
+Is it there? false
+Is it there? false
+Is it there? false
+Is it there? false
+Is it there? false
+70
+Is it there? true
+70
+Is it there? true
+Is it there? false
+125
+Is it there? true
+125
+Is it there? true
+96
+Is it there? true
+Is it there? false
+Is it there? false
+Is it there? false
+Is it there? false
+Is it there? false
+Is it there? false
+100
+Is it there? true
+100
+Is it there? true
+56
+Is it there? true
+58
+Is it there? true
+94
+Is it there? true
+Is it there? false
+Is it there? false
+Is it there? false
+Is it there? false
+Is it there? false
+100
+Is it there? true
+100
+Is it there? true
+Is it there? false
+37
+Is it there? true
+37
+Is it there? true
+Is it there? false
+Is it there? false
+Is it there? false
+Is it there? false
+Is it there? false
+117
+Is it there? true
+117
+Is it there? true
+Is it there? false
+Is it there? false
+Is it there? false
+95
+Is it there? true
+95
+Is it there? true
+41
+Is it there? true
+57
+Is it there? true
+Is it there? false
+Is it there? false
+Is it there? false
+Is it there? false
+Is it there? false
+Is it there? false
+Is it there? false
+44
+Is it there? true
+44
+Is it there? true
+Is it there? false
+Is it there? false
+Is it there? false
+44
+Is it there? true
+44
+Is it there? true
+Is it there? false
+Is it there? false
+Is it there? false
+Is it there? false
+Is it there? false
+Is it there? false
+106
+Is it there? true
+106
+Is it there? true
+Is it there? false
+Is it there? false
+125
+Is it there? true
+125
+Is it there? true
+Is it there? false
+Is it there? false
+Is it there? false
+Is it there? false
+Is it there? false
+Is it there? false
+100
+Is it there? true
+100
+Is it there? true
+107
+Is it there? true
+Is it there? false
+Is it there? false
+Is it there? false
+63
+Is it there? true
+63
+Is it there? true
+118
+Is it there? true
+37
+Is it there? true
+Is it there? false
+Is it there? false
+Is it there? false
+72
+Is it there? true
+72
+Is it there? true
+Is it there? false
+56
+Is it there? true
+56
+Is it there? true
+84
+Is it there? true
+112
+Is it there? true
+62
+Is it there? true
+48
+Is it there? true
+62
+Is it there? true
+43
+Is it there? true
+50
+Is it there? true
+42
+Is it there? true
+Is it there? false
+Is it there? false
+41
+Is it there? true
+41
+Is it there? true
+112
+Is it there? true
+Is it there? false
+Is it there? false
+Is it there? false
+48
+Is it there? true
+48
+Is it there? true
+73
+Is it there? true
+117
+Is it there? true
+123
+Is it there? true
+Is it there? false
+84
+Is it there? true
+84
+Is it there? true
+Is it there? false
+Is it there? false
+102
+Is it there? true
+102
+Is it there? true
+121
+Is it there? true
+113
+Is it there? true
+118
+Is it there? true
+71
+Is it there? true
+59
+Is it there? true
+116
+Is it there? true
+95
+Is it there? true
+44
+Is it there? true
+Is it there? false
+58
+Is it there? true
+58
+Is it there? true
+Is it there? false
+Is it there? false
+Is it there? false
+104
+Is it there? true
+104
+Is it there? true
+101
+Is it there? true
+75
+Is it there? true
+Is it there? false
+Is it there? false
+87
+Is it there? true
+87
+Is it there? true
+Is it there? false
+68
+Is it there? true
+68
+Is it there? true
+Is it there? false
+Is it there? false
+41
+Is it there? true
+41
+Is it there? true
+Is it there? false
+114
+Is it there? true
+114
+Is it there? true
+81
+Is it there? true
+54
+Is it there? true
+104
+Is it there? true
+58
+Is it there? true
+Is it there? false
+Is it there? false
+45
+Is it there? true
+45
+Is it there? true
+Is it there? false
+Is it there? false
+Is it there? false
+39
+Is it there? true
+39
+Is it there? true
+66
+Is it there? true
+Is it there? false
+42
+Is it there? true
+42
+Is it there? true
+Is it there? false
+Is it there? false
+Is it there? false
+Is it there? false
+Is it there? false
+77
+Is it there? true
+77
+Is it there? true
+37
+Is it there? true
+72
+Is it there? true
+88
+Is it there? true
+Is it there? false
+114
+Is it there? true
+114
+Is it there? true
+56
+Is it there? true
+71
+Is it there? true
+Is it there? false
+Is it there? false
+41
+Is it there? true
+41
+Is it there? true
+Is it there? false
+Is it there? false
+Is it there? false
+123
+Is it there? true
+123
+Is it there? true
+99
+Is it there? true
+87
+Is it there? true
+123
+Is it there? true
+44
+Is it there? true
+36
+Is it there? true
+94
+Is it there? true
+Is it there? false
+Is it there? false
+Is it there? false
+Is it there? false
+Is it there? false
+Is it there? false
+119
+Is it there? true
+119
+Is it there? true
+Is it there? false
+57
+Is it there? true
+57
+Is it there? true
+94
+Is it there? true
+33
+Is it there? true
+62
+Is it there? true
+Is it there? false
+Is it there? false
+122
+Is it there? true
+122
+Is it there? true
+55
+Is it there? true
+71
+Is it there? true
+93
+Is it there? true
+Is it there? false
+63
+Is it there? true
+63
+Is it there? true
+102
+Is it there? true
+Is it there? false
+Is it there? false
+Is it there? false
+51
+Is it there? true
+51
+Is it there? true
+77
+Is it there? true
+53
+Is it there? true
+74
+Is it there? true
+116
+Is it there? true
+57
+Is it there? true
+43
+Is it there? true
+33
+Is it there? true
+95
+Is it there? true
+72
+Is it there? true
+56
+Is it there? true
+76
+Is it there? true
+67
+Is it there? true
+Is it there? false
+Is it there? false
+118
+Is it there? true
+118
+Is it there? true
+112
+Is it there? true
+59
+Is it there? true
+Is it there? false
+53
+Is it there? true
+53
+Is it there? true
+74
+Is it there? true
+77
+Is it there? true
+76
+Is it there? true
+113
+Is it there? true
+44
+Is it there? true
+105
+Is it there? true
+51
+Is it there? true
+Is it there? false
+Is it there? false
+55
+Is it there? true
+55
+Is it there? true
+106
+Is it there? true
+Is it there? false
+101
+Is it there? true
+101
+Is it there? true
+33
+Is it there? true
+94
+Is it there? true
+117
+Is it there? true
+Is it there? false
+Is it there? false
+118
+Is it there? true
+118
+Is it there? true
+54
+Is it there? true
+77
+Is it there? true
+48
+Is it there? true
+Is it there? false
+44
+Is it there? true
+44
+Is it there? true
+66
+Is it there? true
+124
+Is it there? true
+37
+Is it there? true
+78
+Is it there? true
+83
+Is it there? true
+85
+Is it there? true
+Is it there? false
+Is it there? false
+36
+Is it there? true
+36
+Is it there? true
+49
+Is it there? true
+45
+Is it there? true
+75
+Is it there? true
+54
+Is it there? true
+90
+Is it there? true
+116
+Is it there? true
+55
+Is it there? true
+113
+Is it there? true
+96
+Is it there? true
+100
+Is it there? true
+114
+Is it there? true
+98
+Is it there? true
+94
+Is it there? true
+105
+Is it there? true
+57
+Is it there? true
+99
+Is it there? true
+124
+Is it there? true
+105
+Is it there? true
+76
+Is it there? true
+Is it there? false
+104
+Is it there? true
+104
+Is it there? true
+89
+Is it there? true
+106
+Is it there? true
+Is it there? false
+Is it there? false
+84
+Is it there? true
+84
+Is it there? true
+Is it there? false
+Is it there? false
+Is it there? false
+111
+Is it there? true
+111
+Is it there? true
+84
+Is it there? true
+101
+Is it there? true
+56
+Is it there? true
+59
+Is it there? true
+123
+Is it there? true
+114
+Is it there? true
+49
+Is it there? true
+78
+Is it there? true
+Is it there? false
+113
+Is it there? true
+113
+Is it there? true
+79
+Is it there? true
+48
+Is it there? true
+Is it there? false
+Is it there? false
+54
+Is it there? true
+54
+Is it there? true
+68
+Is it there? true
+47
+Is it there? true
+Is it there? false
+74
+Is it there? true
+74
+Is it there? true
+117
+Is it there? true
+92
+Is it there? true
+Is it there? false
+Is it there? false
+73
+Is it there? true
+73
+Is it there? true
+Is it there? false
+100
+Is it there? true
+100
+Is it there? true
+57
+Is it there? true
+66
+Is it there? true
+54
+Is it there? true
+83
+Is it there? true
+78
+Is it there? true
+38
+Is it there? true
+84
+Is it there? true
+102
+Is it there? true
+65
+Is it there? true
+Is it there? false
+Is it there? false
+82
+Is it there? true
+82
+Is it there? true
+60
+Is it there? true
+119
+Is it there? true
+95
+Is it there? true
+107
+Is it there? true
+41
+Is it there? true
+107
+Is it there? true
+54
+Is it there? true
+63
+Is it there? true
+75
+Is it there? true
+95
+Is it there? true
+Is it there? false
+117
+Is it there? true
+117
+Is it there? true
+Is it there? false
+Is it there? false
+69
+Is it there? true
+69
+Is it there? true
+Is it there? false
+49
+Is it there? true
+49
+Is it there? true
+118
+Is it there? true
+42
+Is it there? true
+74
+Is it there? true
+58
+Is it there? true
+Is it there? false
+Is it there? false
+36
+Is it there? true
+36
+Is it there? true
+70
+Is it there? true
+109
+Is it there? true
+107
+Is it there? true
+103
+Is it there? true
+Is it there? false
+Is it there? false
+Is it there? false
+51
+Is it there? true
+51
+Is it there? true
+117
+Is it there? true
+80
+Is it there? true
+Is it there? false
+58
+Is it there? true
+58
+Is it there? true
+87
+Is it there? true
+80
+Is it there? true
+90
+Is it there? true
+37
+Is it there? true
+50
+Is it there? true
+99
+Is it there? true
+122
+Is it there? true
+105
+Is it there? true
+49
+Is it there? true
+66
+Is it there? true
+72
+Is it there? true
+66
+Is it there? true
+84
+Is it there? true
+Is it there? false
+Is it there? false
+42
+Is it there? true
+42
+Is it there? true
+114
+Is it there? true
+66
+Is it there? true
+47
+Is it there? true
+84
+Is it there? true
+76
+Is it there? true
+122
+Is it there? true
+87
+Is it there? true
+67
+Is it there? true
+Is it there? false
+72
+Is it there? true
+72
+Is it there? true
+86
+Is it there? true
+111
+Is it there? true
+121
+Is it there? true
+112
+Is it there? true
+43
+Is it there? true
+Is it there? false
+Is it there? false
+33
+Is it there? true
+33
+Is it there? true
+113
+Is it there? true
+Is it there? false
+33
+Is it there? true
+33
+Is it there? true
+110
+Is it there? true
+115
+Is it there? true
+50
+Is it there? true
+76
+Is it there? true
+62
+Is it there? true
+111
+Is it there? true
+34
+Is it there? true
+44
+Is it there? true
+52
+Is it there? true
+70
+Is it there? true
+Is it there? false
+Is it there? false
+85
+Is it there? true
+85
+Is it there? true
+111
+Is it there? true
+Is it there? false
+107
+Is it there? true
+107
+Is it there? true
+99
+Is it there? true
+97
+Is it there? true
+101
+Is it there? true
+Is it there? false
+Is it there? false
+112
+Is it there? true
+112
+Is it there? true
+66
+Is it there? true
+95
+Is it there? true
+56
+Is it there? true
+49
+Is it there? true
+62
+Is it there? true
+83
+Is it there? true
+36
+Is it there? true
+72
+Is it there? true
+84
+Is it there? true
+46
+Is it there? true
+62
+Is it there? true
+35
+Is it there? true
+116
+Is it there? true
+118
+Is it there? true
+46
+Is it there? true
+50
+Is it there? true
+36
+Is it there? true
+66
+Is it there? true
+Is it there? false
+63
+Is it there? true
+63
+Is it there? true
+52
+Is it there? true
+48
+Is it there? true
+75
+Is it there? true
+109
+Is it there? true
+56
+Is it there? true
+48
+Is it there? true
+106
+Is it there? true
+125
+Is it there? true
+61
+Is it there? true
+64
+Is it there? true
+44
+Is it there? true
+122
+Is it there? true
+59
+Is it there? true
+68
+Is it there? true
+45
+Is it there? true
+89
+Is it there? true
+51
+Is it there? true
+75
+Is it there? true
+Is it there? false
+Is it there? false
+116
+Is it there? true
+116
+Is it there? true
+92
+Is it there? true
+39
+Is it there? true
+106
+Is it there? true
+84
+Is it there? true
+53
+Is it there? true
+125
+Is it there? true
+114
+Is it there? true
+113
+Is it there? true
+114
+Is it there? true
+52
+Is it there? true
+65
+Is it there? true
+36
+Is it there? true
+121
+Is it there? true
+48
+Is it there? true
+60
+Is it there? true
+43
+Is it there? true
+123
+Is it there? true
+86
+Is it there? true
+98
+Is it there? true
+87
+Is it there? true
+124
+Is it there? true
+94
+Is it there? true
+114
+Is it there? true
+66
+Is it there? true
+39
+Is it there? true
+104
+Is it there? true
+111
+Is it there? true
+83
+Is it there? true
+Is it there? false
+115
+Is it there? true
+115
+Is it there? true
+99
+Is it there? true
+74
+Is it there? true
+122
+Is it there? true
+79
+Is it there? true
+58
+Is it there? true
+75
+Is it there? true
+104
+Is it there? true
+Is it there? false
+Is it there? false
+92
+Is it there? true
+92
+Is it there? true
+66
+Is it there? true
+122
+Is it there? true
+123
+Is it there? true
+87
+Is it there? true
+44
+Is it there? true
+83
+Is it there? true
+98
+Is it there? true
+67
+Is it there? true
+43
+Is it there? true
+Is it there? false
+54
+Is it there? true
+54
+Is it there? true
+41
+Is it there? true
+Is it there? false
+Is it there? false
+101
+Is it there? true
+101
+Is it there? true
+99
+Is it there? true
+Is it there? false
+113
+Is it there? true
+113
+Is it there? true
+82
+Is it there? true
+123
+Is it there? true
+102
+Is it there? true
+Is it there? false
+Is it there? false
+125
+Is it there? true
+125
+Is it there? true
+34
+Is it there? true
+123
+Is it there? true
+74
+Is it there? true
+107
+Is it there? true
+43
+Is it there? true
+63
+Is it there? true
+99
+Is it there? true
+104
+Is it there? true
+59
+Is it there? true
+96
+Is it there? true
+65
+Is it there? true
+97
+Is it there? true
+54
+Is it there? true
+Is it there? false
+Is it there? false
+Is it there? false
+35
+Is it there? true
+35
+Is it there? true
+Is it there? false
+33
+Is it there? true
+33
+Is it there? true
+94
+Is it there? true
+98
+Is it there? true
+34
+Is it there? true
+93
+Is it there? true
+113
+Is it there? true
+115
+Is it there? true
+49
+Is it there? true
+110
+Is it there? true
+92
+Is it there? true
+98
+Is it there? true
+81
+Is it there? true
+91
+Is it there? true
+33
+Is it there? true
+78
+Is it there? true
+65
+Is it there? true
+40
+Is it there? true
+116
+Is it there? true
+96
+Is it there? true
+107
+Is it there? true
+94
+Is it there? true
+55
+Is it there? true
+104
+Is it there? true
+33
+Is it there? true
+121
+Is it there? true
+58
+Is it there? true
+91
+Is it there? true
+34
+Is it there? true
+49
+Is it there? true
+Is it there? false
+Is it there? false
+50
+Is it there? true
+50
+Is it there? true
+89
+Is it there? true
+62
+Is it there? true
+79
+Is it there? true
+82
+Is it there? true
+49
+Is it there? true
+68
+Is it there? true
+32
+Is it there? true
+34
+Is it there? true
+34
+Is it there? true
+98
+Is it there? true
+109
+Is it there? true
+119
+Is it there? true
+125
+Is it there? true
+62
+Is it there? true
+85
+Is it there? true
+39
+Is it there? true
+52
+Is it there? true
+81
+Is it there? true
+47
+Is it there? true
+46
+Is it there? true
+105
+Is it there? true
+119
+Is it there? true
+73
+Is it there? true
+100
+Is it there? true
+77
+Is it there? true
+39
+Is it there? true
+102
+Is it there? true
+94
+Is it there? true
+33
+Is it there? true
+65
+Is it there? true
+45
+Is it there? true
+116
+Is it there? true
+121
+Is it there? true
+92
+Is it there? true
+73
+Is it there? true
+45
+Is it there? true
+34
+Is it there? true
+73
+Is it there? true
+73
+Is it there? true
+63
+Is it there? true
+71
+Is it there? true
+56
+Is it there? true
+82
+Is it there? true
+71
+Is it there? true
+112
+Is it there? true
+41
+Is it there? true
+78
+Is it there? true
+64
+Is it there? true
+117
+Is it there? true
+119
+Is it there? true
+78
+Is it there? true
+96
+Is it there? true
+112
+Is it there? true
+120
+Is it there? true
+70
+Is it there? true
+63
+Is it there? true
+59
+Is it there? true
+72
+Is it there? true
+58
+Is it there? true
+60
+Is it there? true
+37
+Is it there? true
+71
+Is it there? true
+77
+Is it there? true
+33
+Is it there? true
+37
+Is it there? true
+118
+Is it there? true
+72
+Is it there? true
+65
+Is it there? true
+91
+Is it there? true
+113
+Is it there? true
+96
+Is it there? true
+62
+Is it there? true
+69
+Is it there? true
+53
+Is it there? true
+101
+Is it there? true
+56
+Is it there? true
+88
+Is it there? true
+80
+Is it there? true
+88
+Is it there? true
+79
+Is it there? true
+73
+Is it there? true
+41
+Is it there? true
+49
+Is it there? true
+86
+Is it there? true
+61
+Is it there? true
+113
+Is it there? true
+49
+Is it there? true
+88
+Is it there? true
+59
+Is it there? true
+75
+Is it there? true
+48
+Is it there? true
+91
+Is it there? true
+114
+Is it there? true
+119
+Is it there? true
+92
+Is it there? true
+119
+Is it there? true
+111
+Is it there? true
+Is it there? false
+59
+Is it there? true
+59
+Is it there? true
+102
+Is it there? true
+51
+Is it there? true
+55
+Is it there? true
+39
+Is it there? true
+88
+Is it there? true
+102
+Is it there? true
+40
+Is it there? true
+112
+Is it there? true
+65
+Is it there? true
+114
+Is it there? true
+101
+Is it there? true
+44
+Is it there? true
+88
+Is it there? true
+110
+Is it there? true
+88
+Is it there? true
+74
+Is it there? true
+71
+Is it there? true
+75
+Is it there? true
+91
+Is it there? true
+59
+Is it there? true
+35
+Is it there? true
+41
+Is it there? true
+101
+Is it there? true
+94
+Is it there? true
+55
+Is it there? true
+95
+Is it there? true
+86
+Is it there? true
+75
+Is it there? true
+106
+Is it there? true
+118
+Is it there? true
+34
+Is it there? true
+83
+Is it there? true
+43
+Is it there? true
+57
+Is it there? true
+116
+Is it there? true
+125
+Is it there? true
+60
+Is it there? true
+56
+Is it there? true
+112
+Is it there? true
+Is it there? false
+Is it there? false
+113
+Is it there? true
+113
+Is it there? true
+37
+Is it there? true
+59
+Is it there? true
+97
+Is it there? true
+119
+Is it there? true
+101
+Is it there? true
+68
+Is it there? true
+95
+Is it there? true
+92
+Is it there? true
+95
+Is it there? true
+124
+Is it there? true
+33
+Is it there? true
+96
+Is it there? true
+92
+Is it there? true
+57
+Is it there? true
+65
+Is it there? true
+78
+Is it there? true
+32
+Is it there? true
+46
+Is it there? true
+70
+Is it there? true
+34
+Is it there? true
+123
+Is it there? true
+107
+Is it there? true
+85
+Is it there? true
+45
+Is it there? true
+106
+Is it there? true
+113
+Is it there? true
+69
+Is it there? true
+118
+Is it there? true
+106
+Is it there? true
+Is it there? false
+105
+Is it there? true
+105
+Is it there? true
+44
+Is it there? true
+67
+Is it there? true
+102
+Is it there? true
+37
+Is it there? true
+68
+Is it there? true
+70
+Is it there? true
+100
+Is it there? true
+35
+Is it there? true
+65
+Is it there? true
+98
+Is it there? true
+62
+Is it there? true
+36
+Is it there? true
+90
+Is it there? true
+87
+Is it there? true
+69
+Is it there? true
+42
+Is it there? true
+113
+Is it there? true
+109
+Is it there? true
+106
+Is it there? true
+115
+Is it there? true
+106
+Is it there? true
+113
+Is it there? true
+75
+Is it there? true
+119
+Is it there? true
+94
+Is it there? true
+62
+Is it there? true
+89
+Is it there? true
+112
+Is it there? true
+69
+Is it there? true
+97
+Is it there? true
+92
+Is it there? true
+81
+Is it there? true
+65
+Is it there? true
+94
+Is it there? true
+86
+Is it there? true
+101
+Is it there? true
+39
+Is it there? true
+87
+Is it there? true
+36
+Is it there? true
+72
+Is it there? true
+59
+Is it there? true
+93
+Is it there? true
+76
+Is it there? true
+50
+Is it there? true
+54
+Is it there? true
+46
+Is it there? true
+86
+Is it there? true
+42
+Is it there? true
+123
+Is it there? true
+67
+Is it there? true
+57
+Is it there? true
+104
+Is it there? true
+80
+Is it there? true
+100
+Is it there? true
+123
+Is it there? true
+48
+Is it there? true
+63
+Is it there? true
+86
+Is it there? true
+61
+Is it there? true
+100
+Is it there? true
+84
+Is it there? true
+53
+Is it there? true
+55
+Is it there? true
+117
+Is it there? true
+115
+Is it there? true
+41
+Is it there? true
+118
+Is it there? true
+54
+Is it there? true
+96
+Is it there? true
+55
+Is it there? true
+95
+Is it there? true
+56
+Is it there? true
+116
+Is it there? true
+71
+Is it there? true
+74
+Is it there? true
+70
+Is it there? true
+85
+Is it there? true
+60
+Is it there? true
+106
+Is it there? true
+109
+Is it there? true
+121
+Is it there? true
+38
+Is it there? true
+87
+Is it there? true
+76
+Is it there? true
+38
+Is it there? true
+84
+Is it there? true
+118
+Is it there? true
+69
+Is it there? true
+71
+Is it there? true
+53
+Is it there? true
+69
+Is it there? true
+123
+Is it there? true
+74
+Is it there? true
+118
+Is it there? true
+46
+Is it there? true
+64
+Is it there? true
+34
+Is it there? true
+38
+Is it there? true
+112
+Is it there? true
+124
+Is it there? true
+61
+Is it there? true
+81
+Is it there? true
+54
+Is it there? true
+51
+Is it there? true
+53
+Is it there? true
+122
+Is it there? true
+90
+Is it there? true
+106
+Is it there? true
+57
+Is it there? true
+96
+Is it there? true
+89
+Is it there? true
+52
+Is it there? true
+102
+Is it there? true
+76
+Is it there? true
+96
+Is it there? true
+109
+Is it there? true
+61
+Is it there? true
+115
+Is it there? true
+78
+Is it there? true
+32
+Is it there? true
+42
+Is it there? true
+48
+Is it there? true
+123
+Is it there? true
+85
+Is it there? true
+40
+Is it there? true
+43
+Is it there? true
+49
+Is it there? true
+68
+Is it there? true
+75
+Is it there? true
+35
+Is it there? true
+67
+Is it there? true
+37
+Is it there? true
+111
+Is it there? true
+89
+Is it there? true
+56
+Is it there? true
+38
+Is it there? true
+112
+Is it there? true
+46
+Is it there? true
+44
+Is it there? true
+43
+Is it there? true
+111
+Is it there? true
+34
+Is it there? true
+89
+Is it there? true
+113
+Is it there? true
+104
+Is it there? true
+86
+Is it there? true
+122
+Is it there? true
+65
+Is it there? true
+75
+Is it there? true
+75
+Is it there? true
+65
+Is it there? true
+85
+Is it there? true
+117
+Is it there? true
+88
+Is it there? true
+70
+Is it there? true
+125
+Is it there? true
+125
+Is it there? true
+113
+Is it there? true
+68
+Is it there? true
+75
+Is it there? true
+49
+Is it there? true
+35
+Is it there? true
+80
+Is it there? true
+60
+Is it there? true
+118
+Is it there? true
+36
+Is it there? true
+66
+Is it there? true
+104
+Is it there? true
+77
+Is it there? true
+104
+Is it there? true
+115
+Is it there? true
+88
+Is it there? true
+38
+Is it there? true
+79
+Is it there? true
+75
+Is it there? true
+111
+Is it there? true
+65
+Is it there? true
+72
+Is it there? true
+76
+Is it there? true
+108
+Is it there? true
+47
+Is it there? true
+110
+Is it there? true
+93
+Is it there? true
+38
+Is it there? true
+72
+Is it there? true
+38
+Is it there? true
+63
+Is it there? true
+98
+Is it there? true
+51
+Is it there? true
+125
+Is it there? true
+47
+Is it there? true
+68
+Is it there? true
+34
+Is it there? true
+121
+Is it there? true
+122
+Is it there? true
+121
+Is it there? true
+57
+Is it there? true
+62
+Is it there? true
+99
+Is it there? true
+102
+Is it there? true
+67
+Is it there? true
+115
+Is it there? true
+90
+Is it there? true
+99
+Is it there? true
+94
+Is it there? true
+40
+Is it there? true
+84
+Is it there? true
+33
+Is it there? true
+106
+Is it there? true
+35
+Is it there? true
+109
+Is it there? true
+121
+Is it there? true
+45
+Is it there? true
+76
+Is it there? true
+59
+Is it there? true
+111
+Is it there? true
+108
+Is it there? true
+90
+Is it there? true
+83
+Is it there? true
+60
+Is it there? true
+90
+Is it there? true
+124
+Is it there? true
+96
+Is it there? true
+118
+Is it there? true
+51
+Is it there? true
+93
+Is it there? true
+113
+Is it there? true
+77
+Is it there? true
+55
+Is it there? true
+113
+Is it there? true
+79
+Is it there? true
+116
+Is it there? true
+102
+Is it there? true
+44
+Is it there? true
+90
+Is it there? true
+96
+Is it there? true
+78
+Is it there? true
+74
+Is it there? true
+97
+Is it there? true
+58
+Is it there? true
+Is it there? false
+Is it there? false
