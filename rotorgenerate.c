@@ -48,17 +48,14 @@ int main(){
     FILE *f = fopen("rotors.txt", "a+");
     for(l = 0; l < 94; l++){
         fwrite(&i[l], sizeof(char), 1, f);
-        fwrite(" ", sizeof(char), 1, f);
     }
     fwrite("\n", sizeof(char), 1, f);
     for(l = 0; l < 94; l++){
         fwrite(&j[l], sizeof(char), 1, f);
-        fwrite(" ", sizeof(char), 1, f);
     }
     fwrite("\n", sizeof(char), 1, f);
     for(l = 0; l < 94; l++){
         fwrite(&k[l], sizeof(char), 1, f);
-        fwrite(" ", sizeof(char), 1, f);
     }
 
     fclose(f);
