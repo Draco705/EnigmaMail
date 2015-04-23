@@ -43,9 +43,9 @@ int main(int argc, char* argv[]){
         }
      }
 
-    for(i = 0; i < 94; i++){
+    /*for(i = 0; i < 94; i++){
         printf("R1: %c, R2: %c, R3: %c\n", rotor1[i], rotor2[i], rotor3[i]);
-    }
+    }*/
         
     fclose(rotors); //Done with the rotor file at this point
     
@@ -65,9 +65,10 @@ int main(int argc, char* argv[]){
         if((int)input[i] < 32 || (int)input[i] > 126){
 	       fputc(input[i], eMessage);
            i++;
+           continue;
         }
-	//printf("Orig: %c, %d,	", input[i], (int)input[i]);
-    printf("%c, %d,    ", rotor1[j], j);
+	printf("Orig: %c, %d,	", input[i], (int)input[i]);
+    //printf("%c, %d,    ", rotor1[j], j);
     letter = (int)input[i] + (int)rotor1[j];
 	printf("R1: %d, ", letter);
         if(letter > 126){
@@ -78,7 +79,7 @@ int main(int argc, char* argv[]){
 	    }
 	}
 	//printf("Aft R1: %c , %d,	", letter, (int)letter);
-    printf("%c, %d,    ", rotor2[j], j);
+    //printf("%c, %d,    ", rotor2[j], j);
     letter = letter + (int)rotor2[j];
 	printf("R2: %d, ", letter);
         if(letter > 126){
@@ -90,7 +91,7 @@ int main(int argc, char* argv[]){
         }
 
 	//printf("Aft R2: %c , %d,	", letter, (int)letter);
-    printf("%c, %d,    ", rotor3[j], j);
+    //printf("%c, %d,    ", rotor3[j], j);
     letter = letter + (int)rotor3[j];
 	printf("R3: %d, ", letter);
         if(letter > 126){
@@ -106,7 +107,7 @@ int main(int argc, char* argv[]){
 
         j++;
 
-        printf("%d\n", j);
+        //printf("%d\n", j);
         if(j == 94){
             j = 0;
         }
