@@ -5,6 +5,7 @@ int main(int argc, char* argv[]){
 
     FILE *rotors = fopen("rotors.txt", "rb");
     FILE *eMessage = fopen("encryptedMessage.txt", "w");
+    FILE *adjust = fopen("adjust.bin", "w");
     
     if(argc != 2){
         printf("Error! Not enough arguments!\n");
@@ -55,6 +56,12 @@ int main(int argc, char* argv[]){
     fseek(inMess, start, SEEK_SET);
 
     char input[length];
+    int adjuster[length];
+    for(i = 0; i < length; ++i)
+    {
+        adjuster[i] = 0;
+    }
+
     if(fread(input, sizeof(input) + 1, 1, inMess) < 0){
         printf("Read failed!\n");
     }
@@ -73,22 +80,36 @@ int main(int argc, char* argv[]){
 	printf("R1: %d, ", letter);
         if(letter > 126){
             letter = (letter-126);
-	    printf("Over 126, ");
+            adjuster[i]++;
+            adjuster[i] = adjuster[i] << 1;
+            printf("Adjust 1, ");
+        }
+        else{adjuster[i] = adjuster[i] << 1;}
 	    if(letter < 32){
 	        letter = letter + 32;
+            adjuster[i]++;
+            adjuster[i] = adjuster[i] << 1;
+            printf("Adjust 2, ");
 	    }
-	}
+        else{adjuster[i] = adjuster[i] << 1;}
 	//printf("Aft R1: %c , %d,	", letter, (int)letter);
     //printf("%c, %d,    ", rotor2[j], j);
     letter = letter + (int)rotor2[j];
 	printf("R2: %d, ", letter);
         if(letter > 126){
             letter = (letter-126);
-            printf("Over 126, ");
+            adjuster[i]++;
+            adjuster[i] = adjuster[i] << 1;
+            printf("Adjust 3, ");
+        }
+        else{adjuster[i] = adjuster[i] << 1;}
 	    if(letter < 32){
 	        letter = letter + 32;
+            adjuster[i]++;
+            adjuster[i] = adjuster[i] << 1;
+            printf("Adjust 4, ");
 	    }
-        }
+        else{adjuster[i] = adjuster[i] << 1;}
 
 	//printf("Aft R2: %c , %d,	", letter, (int)letter);
     //printf("%c, %d,    ", rotor3[j], j);
@@ -96,14 +117,20 @@ int main(int argc, char* argv[]){
 	printf("R3: %d, ", letter);
         if(letter > 126){
             letter = (letter - 126);
-	    printf("Over 126, ");
-            if(letter < 32){
-	        letter = letter + 32;
+            adjuster[i]++;
+            adjuster[i] = adjuster[i] << 1;
+            printf("Adjust 5, ");
 	    }
-    }
+        else{adjuster[i] = adjuster[i] << 1;}
+        if(letter < 32){
+	        letter = letter + 32;
+            adjuster[i]++;
+            adjuster[i] = adjuster[i] << 1;
+            printf("Adjust 6, ");
+	    }
+        else{adjuster[i] = adjuster[i] << 1;}
 
-        printf("%c, ", (char)letter);
-        printf("%d\n", letter);
+        printf("%u\n", adjuster[i]);
 
         j++;
 
@@ -113,10 +140,13 @@ int main(int argc, char* argv[]){
         }
 
         fputc(letter, eMessage);
+        fputc(adjuster[i], adjust);
+        fputc('\n', adjust);
 
     }
 
     fclose(eMessage);
+    fclose(adjust);
 
     return 0;
 }

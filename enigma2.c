@@ -5,6 +5,7 @@ int main(int argc, char* argv[]){
 
     FILE *rotors = fopen("rotors.txt", "rb");
     FILE *decrypt = fopen("decrypt.txt", "w"); //Opens the decryption file for writing the actual message
+    FILE *adjust = fopen("adjust.bin", "r");
 
     if(argc != 2){
         printf("Error! Not enough arguments!\n");
@@ -46,6 +47,19 @@ int main(int argc, char* argv[]){
     fseek(encMess, start, SEEK_SET);
 
     char input[length];
+    unsigned int adjuster[length];
+
+    char ins;
+
+    while(ins != EOF){
+        ins = fgetc(adjust);
+        if(ins != '\n'){
+            adjuster[i] = (unsigned int)ins;
+            ++i;
+            printf("%u\n", (unsigned int)ins);
+        }
+    }
+
     char letter;
 
     if(fread(input, sizeof(input) + 1, 1, encMess) < 0){
@@ -60,37 +74,57 @@ int main(int argc, char* argv[]){
           i++;
           continue;
         }
+
+        printf("%u, ", adjuster[i]);
+        adjuster[i] = adjuster[i] >> 1;
+        printf("%u, ", adjuster[i]);
         
         printf("Orig: %c     ", input[i]);
         letter = (int)input[i] - (int)rotor3[j];
-	printf("R3: %d,    ", letter);
-        if(letter < 32){
+	    printf("R3: %d,    ", letter);
+        if((adjuster[i] % 2) == 1){
+            letter = letter - 32;
+            adjuster[i] = adjuster[i] >> 1;
+            printf("Adjust 6: %u", adjuster[i]);
+        }
+        else{adjuster[i] = adjuster[i] >> 1;}
+	    if((adjuster[i] % 2) == 1){
             letter = letter + 126;
-	    printf("Under 32, ");
-	    if(letter > 126){
-		letter = letter - 32;
+            printf("Adjust 5: %u", adjuster[i]);
 	    }
-	}
+        else{adjuster[i] = adjuster[i] >> 1;}
 
         letter = letter - (int)rotor2[j];
 	printf("R2: %d,    ", letter);
-        if(letter < 32){
-            letter = letter + 126;
-	    printf("Under 32, ");
-	    if(letter > 126){
-		letter = letter - 32;
-	    }
+        if((adjuster[i] % 2) == 1){
+            letter = letter - 32;
+            adjuster[i] = adjuster[i] >> 1;
+            printf("Adjust 4: %u", adjuster[i]);
         }
+        else{adjuster[i] = adjuster[i] >> 1;}
+	    if((adjuster[i] % 2) == 1){
+            letter = letter + 126;
+            adjuster[i] = adjuster[i] >> 1;
+            printf("Adjust 3: %u", adjuster[i]);
+	    }
+        else{adjuster[i] = adjuster[i] >> 1;}
+        
 
         letter = letter - (int)rotor1[j];
 	printf("R1: %d,    ", letter);
-        if(letter < 32){
-            letter = letter +126;
-	    printf("Under 32, ");
-	    if(letter > 126){
-		letter = letter - 32;
-	    }
+        if((adjuster[i] % 2) == 1){
+            letter = letter - 32;
+	        adjuster[i] = adjuster[i] >> 1;
+            printf("Adjust 2: %u", adjuster[i]);
         }
+        else{adjuster[i] = adjuster[i] >> 1;}
+	    if((adjuster[i] % 2) == 1){
+	        letter = letter + 126;
+            adjuster[i] = adjuster[i] >> 1;
+            printf("Adjust 1: %u", adjuster[i]);
+	    }
+        else{adjuster[i] = adjuster[i] >> 1;}
+        
 
         printf("Final: %c,    ", (char)letter);
         printf("%d\n", letter);
@@ -101,7 +135,6 @@ int main(int argc, char* argv[]){
         }
 
         fputc(letter, decrypt);
-
     }
 
     fclose(decrypt);

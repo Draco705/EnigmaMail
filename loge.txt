@@ -1,0 +1,59 @@
+Orig: H, 72,	R1: 144, Adjust 1, Adjust 2, R2: 138, Adjust 3, Adjust 4, R3: 98, 120
+Orig: e, 101,	R1: 224, Adjust 1, R2: 197, Adjust 3, R3: 167, Adjust 5, 84
+Orig: l, 108,	R1: 141, Adjust 1, Adjust 2, R2: 140, Adjust 3, Adjust 4, R3: 102, 120
+Orig: l, 108,	R1: 209, Adjust 1, R2: 193, Adjust 3, R3: 161, Adjust 5, 84
+Orig: o, 111,	R1: 176, Adjust 1, R2: 86, R3: 166, Adjust 5, 68
+Orig: !, 33,	R1: 67, R2: 100, R3: 211, Adjust 5, 4
+Orig:  , 32,	R1: 88, R2: 168, Adjust 3, R3: 157, Adjust 5, Adjust 6, 22
+Orig: H, 72,	R1: 161, Adjust 1, R2: 108, R3: 160, Adjust 5, 68
+Orig: o, 111,	R1: 196, Adjust 1, R2: 177, Adjust 3, R3: 150, Adjust 5, Adjust 6, 86
+Orig: w, 119,	R1: 241, Adjust 1, R2: 167, Adjust 3, R3: 151, Adjust 5, Adjust 6, 86
+Orig:  , 32,	R1: 150, Adjust 1, Adjust 2, R2: 175, Adjust 3, R3: 147, Adjust 5, Adjust 6, 118
+Orig: a, 97,	R1: 143, Adjust 1, Adjust 2, R2: 165, Adjust 3, R3: 110, 112
+Orig: r, 114,	R1: 224, Adjust 1, R2: 147, Adjust 3, Adjust 4, R3: 118, 88
+Orig: e, 101,	R1: 168, Adjust 1, R2: 77, R3: 161, Adjust 5, 68
+Orig:  , 32,	R1: 111, R2: 220, Adjust 3, R3: 206, Adjust 5, 20
+Orig: y, 121,	R1: 201, Adjust 1, R2: 169, Adjust 3, R3: 111, 80
+Orig: o, 111,	R1: 220, Adjust 1, R2: 126, R3: 227, Adjust 5, 68
+Orig: u, 117,	R1: 153, Adjust 1, Adjust 2, R2: 170, Adjust 3, R3: 127, Adjust 5, Adjust 6, 118
+Orig:  , 32,	R1: 135, Adjust 1, Adjust 2, R2: 154, Adjust 3, Adjust 4, R3: 185, Adjust 5, 124
+Orig: d, 100,	R1: 145, Adjust 1, Adjust 2, R2: 95, R3: 152, Adjust 5, Adjust 6, 102
+Orig: o, 111,	R1: 235, Adjust 1, R2: 199, Adjust 3, R3: 164, Adjust 5, 84
+Orig: i, 105,	R1: 186, Adjust 1, R2: 99, R3: 193, Adjust 5, 68
+Orig: n, 110,	R1: 196, Adjust 1, R2: 173, Adjust 3, R3: 124, 80
+Orig: g, 103,	R1: 169, Adjust 1, R2: 140, Adjust 3, Adjust 4, R3: 160, Adjust 5, 92
+Orig: ?, 63,	R1: 157, Adjust 1, Adjust 2, R2: 144, Adjust 3, Adjust 4, R3: 164, Adjust 5, 124
+Orig:  , 32,	R1: 101, R2: 186, Adjust 3, R3: 159, Adjust 5, 20
+Orig: a, 97,	R1: 149, Adjust 1, Adjust 2, R2: 161, Adjust 3, R3: 117, 112
+Orig: m, 109,	R1: 185, Adjust 1, R2: 164, Adjust 3, R3: 142, Adjust 5, Adjust 6, 86
+Orig:  , 32,	R1: 67, R2: 117, R3: 234, Adjust 5, 4
+Orig: f, 102,	R1: 162, Adjust 1, R2: 110, R3: 189, Adjust 5, 68
+Orig: i, 105,	R1: 155, Adjust 1, Adjust 2, R2: 121, R3: 178, Adjust 5, 100
+Orig: n, 110,	R1: 229, Adjust 1, R2: 146, Adjust 3, Adjust 4, R3: 156, Adjust 5, Adjust 6, 94
+Orig: e, 101,	R1: 171, Adjust 1, R2: 122, R3: 198, Adjust 5, 68
+Orig: !, 33,	R1: 91, R2: 162, Adjust 3, R3: 161, Adjust 5, 20
+Orig:  , 32,	R1: 73, R2: 160, Adjust 3, R3: 106, 16
+Orig: I, 73,	R1: 150, Adjust 1, Adjust 2, R2: 112, R3: 228, Adjust 5, 100
+Orig:  , 32,	R1: 71, R2: 157, Adjust 3, Adjust 4, R3: 188, Adjust 5, 28
+Orig: r, 114,	R1: 171, Adjust 1, R2: 91, R3: 147, Adjust 5, Adjust 6, 70
+Orig: e, 101,	R1: 169, Adjust 1, R2: 80, R3: 157, Adjust 5, Adjust 6, 70
+Orig: q, 113,	R1: 220, Adjust 1, R2: 198, Adjust 3, R3: 183, Adjust 5, 84
+Orig: u, 117,	R1: 155, Adjust 1, Adjust 2, R2: 137, Adjust 3, Adjust 4, R3: 163, Adjust 5, 124
+Orig: e, 101,	R1: 217, Adjust 1, R2: 158, Adjust 3, R3: 151, Adjust 5, Adjust 6, 86
+Orig: s, 115,	R1: 220, Adjust 1, R2: 212, Adjust 3, R3: 195, Adjust 5, 84
+Orig: t, 116,	R1: 241, Adjust 1, R2: 217, Adjust 3, R3: 195, Adjust 5, 84
+Orig:  , 32,	R1: 93, R2: 216, Adjust 3, R3: 213, Adjust 5, 20
+Orig: y, 121,	R1: 195, Adjust 1, R2: 137, Adjust 3, Adjust 4, R3: 149, Adjust 5, Adjust 6, 94
+Orig: o, 111,	R1: 189, Adjust 1, R2: 116, R3: 228, Adjust 5, 68
+Orig: u, 117,	R1: 190, Adjust 1, R2: 109, R3: 232, Adjust 5, 68
+Orig: r, 114,	R1: 204, Adjust 1, R2: 147, Adjust 3, Adjust 4, R3: 125, 88
+Orig:  , 32,	R1: 147, Adjust 1, Adjust 2, R2: 144, Adjust 3, Adjust 4, R3: 128, Adjust 5, Adjust 6, 126
+Orig: p, 112,	R1: 165, Adjust 1, R2: 117, R3: 190, Adjust 5, 68
+Orig: r, 114,	R1: 158, Adjust 1, R2: 86, R3: 128, Adjust 5, Adjust 6, 70
+Orig: e, 101,	R1: 194, Adjust 1, R2: 133, Adjust 3, Adjust 4, R3: 144, Adjust 5, Adjust 6, 94
+Orig: s, 115,	R1: 162, Adjust 1, R2: 150, Adjust 3, Adjust 4, R3: 136, Adjust 5, Adjust 6, 94
+Orig: e, 101,	R1: 212, Adjust 1, R2: 165, Adjust 3, R3: 134, Adjust 5, Adjust 6, 86
+Orig: n, 110,	R1: 169, Adjust 1, R2: 126, R3: 193, Adjust 5, 68
+Orig: c, 99,	R1: 212, Adjust 1, R2: 203, Adjust 3, R3: 160, Adjust 5, 84
+Orig: e, 101,	R1: 218, Adjust 1, R2: 140, Adjust 3, Adjust 4, R3: 105, 88
+Orig: !, 33,	R1: 87, R2: 183, Adjust 3, R3: 152, Adjust 5, Adjust 6, 22
