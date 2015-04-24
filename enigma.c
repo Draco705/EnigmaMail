@@ -75,63 +75,63 @@ int main(int argc, char* argv[]){
            fputc('\n', adjust);
            continue;
         }
-	printf("Orig: %c, %d,	", input[i], (int)input[i]);
+	//printf("Orig: %c, %d,	", input[i], (int)input[i]);
     //printf("%c, %d,    ", rotor1[j], j);
     letter = (int)input[i] + (int)rotor1[j];
-	printf("R1: %d, ", letter);
+	//printf("R1: %d, ", letter);
         if(letter > 126){
             letter = (letter-126);
             adjuster[i]++;
             adjuster[i] = adjuster[i] << 1;
-            printf("Adjust 1, ");
+            //printf("Adjust 1, ");
         }
         else{adjuster[i] = adjuster[i] << 1;}
 	    if(letter < 32){
 	        letter = letter + 32;
             adjuster[i]++;
             adjuster[i] = adjuster[i] << 1;
-            printf("Adjust 2, ");
+            //printf("Adjust 2, ");
 	    }
         else{adjuster[i] = adjuster[i] << 1;}
 	//printf("Aft R1: %c , %d,	", letter, (int)letter);
     //printf("%c, %d,    ", rotor2[j], j);
     letter = letter + (int)rotor2[j];
-	printf("R2: %d, ", letter);
+	//printf("R2: %d, ", letter);
         if(letter > 126){
             letter = (letter-126);
             adjuster[i]++;
             adjuster[i] = adjuster[i] << 1;
-            printf("Adjust 3, ");
+            //printf("Adjust 3, ");
         }
         else{adjuster[i] = adjuster[i] << 1;}
 	    if(letter < 32){
 	        letter = letter + 32;
             adjuster[i]++;
             adjuster[i] = adjuster[i] << 1;
-            printf("Adjust 4, ");
+            //printf("Adjust 4, ");
 	    }
         else{adjuster[i] = adjuster[i] << 1;}
 
 	//printf("Aft R2: %c , %d,	", letter, (int)letter);
     //printf("%c, %d,    ", rotor3[j], j);
     letter = letter + (int)rotor3[j];
-	printf("R3: %d, ", letter);
+	//printf("R3: %d, ", letter);
         if(letter > 126){
             letter = (letter - 126);
             adjuster[i]++;
             adjuster[i] = adjuster[i] << 1;
-            printf("Adjust 5, ");
+            //printf("Adjust 5, ");
 	    }
         else{adjuster[i] = adjuster[i] << 1;}
         if(letter < 32){
 	        letter = letter + 32;
             adjuster[i]++;
             adjuster[i] = adjuster[i] << 1;
-            printf("Adjust 6, ");
+            //printf("Adjust 6, ");
 	    }
         else{adjuster[i] = adjuster[i] << 1;}
 
-        printf("%u\n", adjuster[i]);
+        //printf("%u\n", adjuster[i]);
 
         j++;
 

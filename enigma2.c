@@ -73,16 +73,16 @@ int main(int argc, char* argv[]){
     int j = 0; //index for the rotors
     for(i = 0; i < (int)length; i++){
         if((int)input[i] < 32 || (int)input[i] > 126){ //ignore any characters not inside the ASCII alphabet range
-	      printf("False character: %c", input[i]);
+	      //printf("False character: %c", input[i]);
           fputc(input[i], decrypt);
           continue;
         }
 
-        printf("Before first shift: %3d, ", adjuster[i]);
+        //printf("Before first shift: %3d, ", adjuster[i]);
         adjuster[i] = adjuster[i] >> 1;
-        printf("%3u, ", adjuster[i]);
+        //printf("%3u, ", adjuster[i]);
         
-        printf("Orig: %c     ", input[i]);
+        //printf("Orig: %c     ", input[i]);
         letter = (int)input[i] - (int)rotor3[j];
 	    //printf("R3: %3d, %3d   ", letter, rotor3[j]);
         if((adjuster[i] % 2) == 1){
@@ -130,8 +130,8 @@ int main(int argc, char* argv[]){
         else{adjuster[i] = adjuster[i] >> 1;}
         
 
-        printf("Final: %c,    ", (char)letter);
-        printf("%d\n", letter);
+        //printf("Final: %c,    ", (char)letter);
+        //printf("%d\n", letter);
 
         j++;
         if(j == 94){
