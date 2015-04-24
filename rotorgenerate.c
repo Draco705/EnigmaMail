@@ -70,7 +70,7 @@ bool isThere(int rotor[], int size, int input){
 
     for(i = 0; i < size; i++){
         if(input == rotor[i]){
-            printf("%d\n", rotor[i]);
+            //printf("%d\n", rotor[i]);
             isitThere = true;
             break;
         }

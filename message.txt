@@ -1,0 +1,13 @@
+Hey Colton,
+
+This is the second test message.  In order to make this file, I had to clone the GitHub
+repository onto my VM.  Then after that I had to run the Makefile again to create
+executables that were compiled and ready to run on the Linux VM.
+
+There was an issue with compiling and creating the executables on the Mac OS X operating
+system where they would run on the Linux VM, so I tried putting all the files on the VM
+first and then compiling them and making new executables on the VM.  I will try running
+the script on these new executables and see if we can get this thing working properly!
+
+Best,
+Colton
