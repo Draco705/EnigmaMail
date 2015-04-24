@@ -47,18 +47,25 @@ int main(int argc, char* argv[]){
     fseek(encMess, start, SEEK_SET);
 
     char input[length];
-    unsigned int adjuster[length];
+    int adjuster[length];
+    for (i = 0; i < length; ++i)
+    {
+        adjuster[i] = 0;
+    }
 
     char ins;
 
     while(ins != EOF){
         ins = fgetc(adjust);
         if(ins != '\n'){
-            adjuster[i] = (unsigned int)ins;
+            adjuster[i] = ins;
             ++i;
-            printf("%u\n", (unsigned int)ins);
+            printf("Ins: %c, ", ins);
+            printf("%u\n", adjuster[i]);
         }
     }
+
+    fclose(adjust);
 
     char letter;
 
@@ -66,8 +73,8 @@ int main(int argc, char* argv[]){
         printf("Read failed!\n");
     }
 
-       int j = 0; //index for the rotors
-
+    int j = 0; //index for the rotors
+    int orig;
     for(i = 0; i < (int)length; i++){
         if((int)input[i] < 32 || (int)input[i] > 126){ //ignore any characters not inside the ASCII alphabet range
 	      fputc(input[i], decrypt);
@@ -75,8 +82,10 @@ int main(int argc, char* argv[]){
           continue;
         }
 
-        printf("%u, ", adjuster[i]);
+        printf("Before first shift: %u, ", adjuster[i]);
+        orig = adjuster[i];
         adjuster[i] = adjuster[i] >> 1;
+        adjuster[i] = adjuster[i] && 4294967295;
         printf("%u, ", adjuster[i]);
         
         printf("Orig: %c     ", input[i]);
