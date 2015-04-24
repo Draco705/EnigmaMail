@@ -71,7 +71,6 @@ int main(int argc, char* argv[]){
     for(i = 0; i < (int)length; i++){
         if((int)input[i] < 32 || (int)input[i] > 126){
 	       fputc(input[i], eMessage);
-           i++;
            continue;
         }
 	printf("Orig: %c, %d,	", input[i], (int)input[i]);

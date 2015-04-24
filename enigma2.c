@@ -53,17 +53,13 @@ int main(int argc, char* argv[]){
         adjuster[i] = 0;
     }
 
-    while(i < (int)length){
+    i = 0;
+
+    while(i < length){
         fscanf(adjust, "%d ", &adjuster[i]);
         //printf("%d, ", adjuster[i]);
         //printf("i is: %d", i);
         ++i;
-    }
-
-    printf("len is %zd", length);
-
-    for(i = 0; i < length; ++i){
-        printf("%d, ", adjuster[i]);
     }
 
     fclose(adjust);
@@ -75,62 +71,61 @@ int main(int argc, char* argv[]){
     }
 
     int j = 0; //index for the rotors
-    int orig;
     for(i = 0; i < (int)length; i++){
         if((int)input[i] < 32 || (int)input[i] > 126){ //ignore any characters not inside the ASCII alphabet range
-	      fputc(input[i], decrypt);
-          i++;
+	      printf("False character: %c", input[i]);
+          fputc(input[i], decrypt);
           continue;
         }
 
-        printf("Before first shift: %d, ", adjuster[i]);
-        orig = adjuster[i];
+        printf("Before first shift: %3d, ", adjuster[i]);
         adjuster[i] = adjuster[i] >> 1;
-        printf("%u, ", adjuster[i]);
+        printf("%3u, ", adjuster[i]);
         
         printf("Orig: %c     ", input[i]);
         letter = (int)input[i] - (int)rotor3[j];
-	    printf("R3: %d,    ", letter);
+	    //printf("R3: %3d, %3d   ", letter, rotor3[j]);
         if((adjuster[i] % 2) == 1){
             letter = letter - 32;
             adjuster[i] = adjuster[i] >> 1;
-            printf("Adjust 6: %u", adjuster[i]);
+            //printf("Adjust 6: %3u, ", adjuster[i]);
         }
         else{adjuster[i] = adjuster[i] >> 1;}
 	    if((adjuster[i] % 2) == 1){
             letter = letter + 126;
-            printf("Adjust 5: %u", adjuster[i]);
+            //printf("Adjust 5: %3u, ", adjuster[i]);
+            adjuster[i] = adjuster[i] >>1;
 	    }
         else{adjuster[i] = adjuster[i] >> 1;}
 
         letter = letter - (int)rotor2[j];
-	printf("R2: %d,    ", letter);
+	    //printf("R2: %3d, %3d,   ", letter, rotor2[j]);
         if((adjuster[i] % 2) == 1){
             letter = letter - 32;
             adjuster[i] = adjuster[i] >> 1;
-            printf("Adjust 4: %u", adjuster[i]);
+            //printf("Adjust 4: %3u, ", adjuster[i]);
         }
         else{adjuster[i] = adjuster[i] >> 1;}
 	    if((adjuster[i] % 2) == 1){
             letter = letter + 126;
             adjuster[i] = adjuster[i] >> 1;
-            printf("Adjust 3: %u", adjuster[i]);
+            //printf("Adjust 3: %3u, ", adjuster[i]);
 	    }
         else{adjuster[i] = adjuster[i] >> 1;}
         
 
         letter = letter - (int)rotor1[j];
-	printf("R1: %d,    ", letter);
+	    //printf("R1: %3d, %3d   ", letter, rotor1[j]);
         if((adjuster[i] % 2) == 1){
             letter = letter - 32;
 	        adjuster[i] = adjuster[i] >> 1;
-            printf("Adjust 2: %u", adjuster[i]);
+            //printf("Adjust 2: %3u, ", adjuster[i]);
         }
         else{adjuster[i] = adjuster[i] >> 1;}
 	    if((adjuster[i] % 2) == 1){
 	        letter = letter + 126;
             adjuster[i] = adjuster[i] >> 1;
-            printf("Adjust 1: %u", adjuster[i]);
+            //printf("Adjust 1: %3u, ", adjuster[i]);
 	    }
         else{adjuster[i] = adjuster[i] >> 1;}
         
@@ -143,7 +138,7 @@ int main(int argc, char* argv[]){
             j = 0;
         }
 
-        fputc(letter, decrypt);
+        fputc((char)letter, decrypt);
     }
 
     fclose(decrypt);
