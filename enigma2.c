@@ -53,10 +53,17 @@ int main(int argc, char* argv[]){
         adjuster[i] = 0;
     }
 
-    while(!feof(adjust)){
+    while(i < (int)length){
         fscanf(adjust, "%d ", &adjuster[i]);
-        printf("%d, ", adjuster[i]);
+        //printf("%d, ", adjuster[i]);
+        //printf("i is: %d", i);
         ++i;
+    }
+
+    printf("len is %zd", length);
+
+    for(i = 0; i < length; ++i){
+        printf("%d, ", adjuster[i]);
     }
 
     fclose(adjust);

@@ -11,7 +11,7 @@ int main(int argc, char* argv[]){
         printf("Error! Not enough arguments!\n");
         return 1;
     }
-
+    
     FILE *inMess = fopen(argv[1], "r"); //Open file for encryption
 
     char rotor1[94];

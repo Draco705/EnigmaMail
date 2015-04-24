@@ -1,0 +1,116 @@
+len is 610, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, Before first shift: 0, 0, Orig: b     R3: 44,    R2: -44,    R1: -116,    Final: Œ,    -116
+Before first shift: 0, 0, Orig: )     R3: -55,    R2: 102,    R1: -21,    Final: ë,    -21
+Before first shift: 0, 0, Orig: f     R3: 46,    R2: -47,    R1: -80,    Final: °,    -80
+Before first shift: 0, 0, Orig: #     R3: -59,    R2: 87,    R1: -14,    Final: ò,    -14
+Before first shift: 0, 0, Orig: (     R3: -40,    R2: -76,    R1: 115,    Final: s,    115
+Before first shift: 0, 0, Orig: U     R3: -26,    R2: -59,    R1: -93,    Final: £,    -93
+Before first shift: 0, 0, Orig: ?     R3: -52,    R2: 124,    R1: 68,    Final: D,    68
+Before first shift: 0, 0, Orig: "     R3: -18,    R2: -91,    R1: 76,    Final: L,    76
+Before first shift: 0, 0, Orig: 8     R3: -43,    R2: 106,    R1: 21,    Final: ,    21
+Before first shift: 0, 0, Orig: 9     R3: -53,    R2: -105,    R1: 29,    Final: ,    29
+Before first shift: 0, 0, Orig: 5     R3: -45,    R2: 92,    R1: -26,    Final: æ,    -26
+Before first shift: 0, 0, Orig: n     R3: 39,    R2: -77,    R1: -123,    Final: …,    -123
+Before first shift: 0, 0, Orig: v     R3: 53,    R2: 4,    R1: -106,    Final: –,    -106
+Before first shift: 0, 0, Orig: #     R3: -49,    R2: -84,    R1: 105,    Final: i,    105
+Before first shift: 0, 0, Orig: P     R3: -32,    R2: 115,    R1: 36,    Final: $,    36
+Before first shift: 0, 0, Orig: o     R3: 43,    R2: -51,    R1: 125,    Final: },    125
+Before first shift: 0, 0, Orig: e     R3: 0,    R2: -32,    R1: 115,    Final: s,    115
+Before first shift: 0, 0, Orig: !     R3: -50,    R2: 95,    R1: 59,    Final: ;,    59
+Before first shift: 0, 0, Orig: ;     R3: -66,    R2: 77,    R1: -26,    Final: æ,    -26
+Before first shift: 0, 0, Orig: :     R3: 1,    R2: -43,    R1: -88,    Final: ¨,    -88
+Before first shift: 0, 0, Orig: &     R3: -53,    R2: 113,    R1: -11,    Final: õ,    -11
+Before first shift: 0, 0, Orig: C     R3: -27,    R2: -66,    R1: 109,    Final: m,    109
+Before first shift: 0, 0, Orig: |     R3: 47,    R2: -56,    R1: 114,    Final: r,    114
+Before first shift: 0, 0, Orig: "     R3: -80,    R2: 79,    R1: 13,    Final: ,    13
+Before first shift: 0, 0, Orig: &     R3: -76,    R2: 99,    R1: 5,    Final: ,    5
+Before first shift: 0, 0, Orig: u     R3: 18,    R2: -67,    R1: 120,    Final: x,    120
+Before first shift: 0, 0, Orig: 0     R3: -34,    R2: 116,    R1: 64,    Final: @,    64
+Before first shift: 0, 0, Orig: l     R3: 4,    R2: -101,    R1: 79,    Final: O,    79
+Before first shift: 0, 0, Orig: ?     R3: -54,    R2: -104,    R1: 117,    Final: u,    117
+Before first shift: 0, 0, Orig: 4     R3: -27,    R2: -101,    R1: 95,    Final: _,    95
+Before first shift: 0, 0, Orig: >     R3: 5,    R2: -55,    R1: -105,    Final: —,    -105
+Before first shift: 0, 0, Orig: H     R3: -32,    R2: -75,    R1: 62,    Final: >,    62
+Before first shift: 0, 0, Orig: #     R3: -41,    R2: -118,    R1: 68,    Final: D,    68
+Before first shift: 0, 0, Orig: j     R3: -19,    R2: -90,    R1: 108,    Final: l,    108
+Before first shift: 0, 0, Orig: f     R3: 30,    R2: -57,    R1: -98,    Final: ž,    -98
+Before first shift: 0, 0, Orig: >     R3: -54,    R2: -110,    R1: 69,    Final: E,    69
+Before first shift: 0, 0, Orig: 5     R3: -72,    R2: 98,    R1: 59,    Final: ;,    59
+Before first shift: 0, 0, Orig: ?     R3: 7,    R2: -39,    R1: -96,    Final:  ,    -96
+Before first shift: 0, 0, Orig: 9     R3: -20,    R2: -57,    R1: -125,    Final: ƒ,    -125
+Before first shift: 0, 0, Orig: %     R3: -74,    R2: 78,    R1: -29,    Final: ã,    -29
+Before first shift: 0, 0, Orig: 9     R3: -63,    R2: 117,    R1: 79,    Final: O,    79
+Before first shift: 0, 0, Orig: E     R3: -50,    R2: -117,    R1: 23,    Final: ,    23
+Before first shift: 0, 0, Orig: E     R3: -40,    R2: 98,    R1: -7,    Final: ù,    -7
+Before first shift: 0, 0, Orig: W     R3: -17,    R2: -119,    R1: 12,    Final: ,    12
+Before first shift: 0, 0, Orig: 7     R3: -68,    R2: 65,    R1: 4,    Final: ,    4
+Before first shift: 0, 0, Orig: f     R3: -4,    R2: -72,    R1: 110,    Final: n,    110
+Before first shift: 0, 0, Orig: j     R3: -6,    R2: -59,    R1: 119,    Final: w,    119
+Before first shift: 0, 0, Orig: }     R3: 2,    R2: -43,    R1: -116,    Final: Œ,    -116
+Before first shift: 0, 0, Orig: "     R3: -38,    R2: -107,    R1: 59,    Final: ;,    59
+Before first shift: 0, 0, Orig: @     R3: -14,    R2: -105,    R1: 36,    Final: $,    36
+Before first shift: 0, 0, Orig: "     R3: -39,    R2: -117,    R1: 86,    Final: V,    86
+Before first shift: 0, 0, Orig: 2     R3: 8,    R2: -46,    R1: -90,    Final: ¦,    -90
+Before first shift: 0, 0, Orig: *     R3: -63,    R2: -128,    R1: 35,    Final: #,    35
+Before first shift: 0, 0, Orig: (     R3: -40,    R2: 102,    R1: 55,    Final: 7,    55
+Before first shift: 0, 0, Orig: C     R3: -28,    R2: -107,    R1: 38,    Final: &,    38
+Before first shift: 0, 0, Orig: "     R3: -33,    R2: -116,    R1: 81,    Final: Q,    81
+Before first shift: 0, 0, Orig: i     R3: 22,    R2: -95,    R1: 48,    Final: 0,    48
+Before first shift: 0, 0, Orig: :     R3: -1,    R2: -49,    R1: 90,    Final: Z,    90
+len is 610, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, Before first shift: 0, 0, Orig: b     R3: 44,    R2: -44,    R1: -116,    Final: Œ,    -116
+Before first shift: 0, 0, Orig: )     R3: -55,    R2: 102,    R1: -21,    Final: ë,    -21
+Before first shift: 0, 0, Orig: f     R3: 46,    R2: -47,    R1: -80,    Final: °,    -80
+Before first shift: 0, 0, Orig: #     R3: -59,    R2: 87,    R1: -14,    Final: ò,    -14
+Before first shift: 0, 0, Orig: (     R3: -40,    R2: -76,    R1: 115,    Final: s,    115
+Before first shift: 0, 0, Orig: U     R3: -26,    R2: -59,    R1: -93,    Final: £,    -93
+Before first shift: 0, 0, Orig: ?     R3: -52,    R2: 124,    R1: 68,    Final: D,    68
+Before first shift: 0, 0, Orig: "     R3: -18,    R2: -91,    R1: 76,    Final: L,    76
+Before first shift: 0, 0, Orig: 8     R3: -43,    R2: 106,    R1: 21,    Final: ,    21
+Before first shift: 0, 0, Orig: 9     R3: -53,    R2: -105,    R1: 29,    Final: ,    29
+Before first shift: 0, 0, Orig: 5     R3: -45,    R2: 92,    R1: -26,    Final: æ,    -26
+Before first shift: 0, 0, Orig: n     R3: 39,    R2: -77,    R1: -123,    Final: …,    -123
+Before first shift: 0, 0, Orig: v     R3: 53,    R2: 4,    R1: -106,    Final: –,    -106
+Before first shift: 0, 0, Orig: #     R3: -49,    R2: -84,    R1: 105,    Final: i,    105
+Before first shift: 0, 0, Orig: P     R3: -32,    R2: 115,    R1: 36,    Final: $,    36
+Before first shift: 0, 0, Orig: o     R3: 43,    R2: -51,    R1: 125,    Final: },    125
+Before first shift: 0, 0, Orig: e     R3: 0,    R2: -32,    R1: 115,    Final: s,    115
+Before first shift: 0, 0, Orig: !     R3: -50,    R2: 95,    R1: 59,    Final: ;,    59
+Before first shift: 0, 0, Orig: ;     R3: -66,    R2: 77,    R1: -26,    Final: æ,    -26
+Before first shift: 0, 0, Orig: :     R3: 1,    R2: -43,    R1: -88,    Final: ¨,    -88
+Before first shift: 0, 0, Orig: &     R3: -53,    R2: 113,    R1: -11,    Final: õ,    -11
+Before first shift: 0, 0, Orig: C     R3: -27,    R2: -66,    R1: 109,    Final: m,    109
+Before first shift: 0, 0, Orig: |     R3: 47,    R2: -56,    R1: 114,    Final: r,    114
+Before first shift: 0, 0, Orig: "     R3: -80,    R2: 79,    R1: 13,    Final: ,    13
+Before first shift: 0, 0, Orig: &     R3: -76,    R2: 99,    R1: 5,    Final: ,    5
+Before first shift: 0, 0, Orig: u     R3: 18,    R2: -67,    R1: 120,    Final: x,    120
+Before first shift: 0, 0, Orig: 0     R3: -34,    R2: 116,    R1: 64,    Final: @,    64
+Before first shift: 0, 0, Orig: l     R3: 4,    R2: -101,    R1: 79,    Final: O,    79
+Before first shift: 0, 0, Orig: ?     R3: -54,    R2: -104,    R1: 117,    Final: u,    117
+Before first shift: 0, 0, Orig: 4     R3: -27,    R2: -101,    R1: 95,    Final: _,    95
+Before first shift: 0, 0, Orig: >     R3: 5,    R2: -55,    R1: -105,    Final: —,    -105
+Before first shift: 0, 0, Orig: H     R3: -32,    R2: -75,    R1: 62,    Final: >,    62
+Before first shift: 0, 0, Orig: #     R3: -41,    R2: -118,    R1: 68,    Final: D,    68
+Before first shift: 0, 0, Orig: j     R3: -19,    R2: -90,    R1: 108,    Final: l,    108
+Before first shift: 0, 0, Orig: f     R3: 30,    R2: -57,    R1: -98,    Final: ž,    -98
+Before first shift: 0, 0, Orig: >     R3: -54,    R2: -110,    R1: 69,    Final: E,    69
+Before first shift: 0, 0, Orig: 5     R3: -72,    R2: 98,    R1: 59,    Final: ;,    59
+Before first shift: 0, 0, Orig: ?     R3: 7,    R2: -39,    R1: -96,    Final:  ,    -96
+Before first shift: 0, 0, Orig: 9     R3: -20,    R2: -57,    R1: -125,    Final: ƒ,    -125
+Before first shift: 0, 0, Orig: %     R3: -74,    R2: 78,    R1: -29,    Final: ã,    -29
+Before first shift: 0, 0, Orig: 9     R3: -63,    R2: 117,    R1: 79,    Final: O,    79
+Before first shift: 0, 0, Orig: E     R3: -50,    R2: -117,    R1: 23,    Final: ,    23
+Before first shift: 0, 0, Orig: E     R3: -40,    R2: 98,    R1: -7,    Final: ù,    -7
+Before first shift: 0, 0, Orig: W     R3: -17,    R2: -119,    R1: 12,    Final: ,    12
+Before first shift: 0, 0, Orig: 7     R3: -68,    R2: 65,    R1: 4,    Final: ,    4
+Before first shift: 0, 0, Orig: f     R3: -4,    R2: -72,    R1: 110,    Final: n,    110
+Before first shift: 0, 0, Orig: j     R3: -6,    R2: -59,    R1: 119,    Final: w,    119
+Before first shift: 0, 0, Orig: }     R3: 2,    R2: -43,    R1: -116,    Final: Œ,    -116
+Before first shift: 0, 0, Orig: "     R3: -38,    R2: -107,    R1: 59,    Final: ;,    59
+Before first shift: 0, 0, Orig: @     R3: -14,    R2: -105,    R1: 36,    Final: $,    36
+Before first shift: 0, 0, Orig: "     R3: -39,    R2: -117,    R1: 86,    Final: V,    86
+Before first shift: 0, 0, Orig: 2     R3: 8,    R2: -46,    R1: -90,    Final: ¦,    -90
+Before first shift: 0, 0, Orig: *     R3: -63,    R2: -128,    R1: 35,    Final: #,    35
+Before first shift: 0, 0, Orig: (     R3: -40,    R2: 102,    R1: 55,    Final: 7,    55
+Before first shift: 0, 0, Orig: C     R3: -28,    R2: -107,    R1: 38,    Final: &,    38
+Before first shift: 0, 0, Orig: "     R3: -33,    R2: -116,    R1: 81,    Final: Q,    81
+Before first shift: 0, 0, Orig: i     R3: 22,    R2: -95,    R1: 48,    Final: 0,    48
+Before first shift: 0, 0, Orig: :     R3: -1,    R2: -49,    R1: 90,    Final: Z,    90
