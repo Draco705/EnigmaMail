@@ -1,61 +1,62 @@
-R1: 160, Over 126, R2: 147, Over 126, R3: 96, `, 96
-R1: 188, Over 126, R2: 150, Over 126, R3: 161, Over 126, #, 35
-R1: 189, Over 126, R2: 131, Over 126, R3: 155, Over 126, =, 61
-R1: 183, Over 126, R2: 119, R3: 156, Over 126, >, 62
-R1: 152, Over 126, R2: 180, Over 126, R3: 100, d, 100
-R1: 68, R2: 169, Over 126, R3: 119, w, 119
-R1: 122, R2: 185, Over 126, R3: 137, Over 126, +, 43
-R1: 172, Over 126, R2: 120, R3: 242, Over 126, t, 116
-R1: 215, Over 126, R2: 207, Over 126, R3: 136, Over 126, *, 42
-R1: 236, Over 126, R2: 216, Over 126, R3: 167, Over 126, ), 41
-R1: 153, Over 126, R2: 102, R3: 169, Over 126, +, 43
-R1: 174, Over 126, R2: 141, Over 126, R3: 145, Over 126, 3, 51
-R1: 239, Over 126, R2: 215, Over 126, R3: 183, Over 126, 9, 57
-R1: 195, Over 126, R2: 106, R3: 139, Over 126, -, 45
-R1: 144, Over 126, R2: 145, Over 126, R3: 152, Over 126, :, 58
-R1: 191, Over 126, R2: 165, Over 126, R3: 132, Over 126, &, 38
-R1: 218, Over 126, R2: 209, Over 126, R3: 125, }, 125
-R1: 176, Over 126, R2: 140, Over 126, R3: 105, i, 105
-R1: 137, Over 126, R2: 110, R3: 162, Over 126, $, 36
-R1: 216, Over 126, R2: 146, Over 126, R3: 175, Over 126, 1, 49
-R1: 158, Over 126, R2: 82, R3: 131, Over 126, %, 37
-R1: 188, Over 126, R2: 122, R3: 173, Over 126, /, 47
-R1: 146, Over 126, R2: 110, R3: 229, Over 126, g, 103
-R1: 159, Over 126, R2: 98, R3: 207, Over 126, Q, 81
-R1: 177, Over 126, R2: 161, Over 126, R3: 118, v, 118
-R1: 166, Over 126, R2: 163, Over 126, R3: 91, [, 91
-R1: 80, R2: 149, Over 126, R3: 128, Over 126, ", 34
-R1: 150, Over 126, R2: 160, Over 126, R3: 151, Over 126, 9, 57
-R1: 194, Over 126, R2: 164, Over 126, R3: 78, N, 78
-R1: 100, R2: 225, Over 126, R3: 178, Over 126, 4, 52
-R1: 157, Over 126, R2: 117, R3: 175, Over 126, 1, 49
-R1: 218, Over 126, R2: 186, Over 126, R3: 114, r, 114
-R1: 216, Over 126, R2: 132, Over 126, R3: 84, T, 84
-R1: 134, Over 126, R2: 116, R3: 214, Over 126, X, 88
-R1: 128, Over 126, R2: 74, R3: 114, r, 114
-R1: 105, R2: 186, Over 126, R3: 126, ~, 126
-R1: 151, Over 126, R2: 134, Over 126, R3: 154, Over 126, <, 60
-R1: 150, Over 126, R2: 165, Over 126, R3: 77, M, 77
-R1: 185, Over 126, R2: 110, R3: 197, Over 126, G, 71
-R1: 200, Over 126, R2: 189, Over 126, R3: 162, Over 126, $, 36
-R1: 157, Over 126, R2: 147, Over 126, R3: 160, Over 126, ", 34
-R1: 167, Over 126, R2: 130, Over 126, R3: 161, Over 126, #, 35
-R1: 158, Over 126, R2: 144, Over 126, R3: 141, Over 126, /, 47
-R1: 181, Over 126, R2: 99, R3: 178, Over 126, 4, 52
-R1: 200, Over 126, R2: 109, R3: 191, Over 126, A, 65
-R1: 155, Over 126, R2: 175, Over 126, R3: 155, Over 126, =, 61
-R1: 160, Over 126, R2: 109, R3: 215, Over 126, Y, 89
-R1: 174, Over 126, R2: 169, Over 126, R3: 144, Over 126, 2, 50
-R1: 219, Over 126, R2: 176, Over 126, R3: 166, Over 126, (, 40
-R1: 193, Over 126, R2: 139, Over 126, R3: 92, \, 92
-R1: 69, R2: 135, Over 126, R3: 134, Over 126, (, 40
-R1: 184, Over 126, R2: 106, R3: 155, Over 126, =, 61
-R1: 156, Over 126, R2: 100, R3: 219, Over 126, ], 93
-R1: 199, Over 126, R2: 130, Over 126, R3: 153, Over 126, ;, 59
-R1: 191, Over 126, R2: 181, Over 126, R3: 132, Over 126, &, 38
-R1: 146, Over 126, R2: 138, Over 126, R3: 109, m, 109
-R1: 213, Over 126, R2: 184, Over 126, R3: 101, e, 101
-R1: 168, Over 126, R2: 120, R3: 210, Over 126, T, 84
-R1: 175, Over 126, R2: 173, Over 126, R3: 146, Over 126, 4, 52
-R1: 129, Over 126, R2: 106, R3: 203, Over 126, M, 77
-R1: 49, R2: 141, Over 126, R3: 122, z, 122
+Before first shift: 120,  60, Orig: b     Final: H,    72
+Before first shift:  84,  42, Orig: )     Final: e,    101
+Before first shift: 120,  60, Orig: f     Final: l,    108
+Before first shift:  84,  42, Orig: #     Final: l,    108
+Before first shift:  68,  34, Orig: (     Final: o,    111
+Before first shift:   4,   2, Orig: U     Final: !,    33
+Before first shift:  22,  11, Orig: ?     Final:  ,    32
+Before first shift:  68,  34, Orig: "     Final: H,    72
+Before first shift:  86,  43, Orig: 8     Final: o,    111
+Before first shift:  86,  43, Orig: 9     Final: w,    119
+Before first shift: 118,  59, Orig: 5     Final:  ,    32
+Before first shift: 112,  56, Orig: n     Final: a,    97
+Before first shift:  88,  44, Orig: v     Final: r,    114
+Before first shift:  68,  34, Orig: #     Final: e,    101
+Before first shift:  20,  10, Orig: P     Final:  ,    32
+Before first shift:  80,  40, Orig: o     Final: y,    121
+Before first shift:  68,  34, Orig: e     Final: o,    111
+Before first shift: 118,  59, Orig: !     Final: u,    117
+Before first shift: 124,  62, Orig: ;     Final:  ,    32
+Before first shift: 102,  51, Orig: :     Final: d,    100
+Before first shift:  84,  42, Orig: &     Final: o,    111
+Before first shift:  68,  34, Orig: C     Final: i,    105
+Before first shift:  80,  40, Orig: |     Final: n,    110
+Before first shift:  92,  46, Orig: "     Final: g,    103
+Before first shift: 124,  62, Orig: &     Final: ?,    63
+False character: 
+Before first shift: 126,  63, Orig: ,     Final: I,    73
+Before first shift:  22,  11, Orig: 4     Final:  ,    32
+Before first shift:  92,  46, Orig: $     Final: a,    97
+Before first shift: 100,  50, Orig: [     Final: m,    109
+Before first shift:  16,   8, Orig: w     Final:  ,    32
+Before first shift: 100,  50, Orig: 1     Final: f,    102
+Before first shift:  94,  47, Orig: 9     Final: i,    105
+Before first shift:  88,  44, Orig: q     Final: n,    110
+Before first shift:  68,  34, Orig: g     Final: e,    101
+Before first shift:  16,   8, Orig: k     Final: !,    33
+Before first shift:  22,  11, Orig: =     Final:  ,    32
+Before first shift:  20,  10, Orig: G     Final: I,    73
+Before first shift:  24,  12, Orig: a     Final:  ,    32
+Before first shift:  68,  34, Orig: ,     Final: r,    114
+Before first shift:  84,  42, Orig: -     Final: e,    101
+Before first shift: 124,  62, Orig: !     Final: q,    113
+Before first shift:  84,  42, Orig: )     Final: u,    117
+Before first shift:  84,  42, Orig: 7     Final: e,    101
+Before first shift:  84,  42, Orig: D     Final: s,    115
+Before first shift:  84,  42, Orig: -     Final: t,    116
+Before first shift:  22,  11, Orig: <     Final:  ,    32
+Before first shift:  68,  34, Orig: p     Final: y,    121
+Before first shift:  68,  34, Orig: d     Final: o,    111
+Before first shift:  94,  47, Orig: "     Final: u,    117
+Before first shift:  86,  43, Orig: 4     Final: r,    114
+Before first shift:  16,   8, Orig: n     Final:  ,    32
+Before first shift: 100,  50, Orig:       Final: p,    112
+Before first shift:  94,  47, Orig: ?     Final: r,    114
+Before first shift: 112,  56, Orig: z     Final: e,    101
+Before first shift:  86,  43, Orig: 6     Final: s,    115
+Before first shift:  68,  34, Orig: :     Final: e,    101
+Before first shift:  84,  42, Orig: -     Final: n,    110
+Before first shift:  88,  44, Orig: g     Final: c,    99
+Before first shift: 124,  62, Orig:       Final: e,    101
+Before first shift:  16,   8, Orig: \     Final: !,    33
+False character: 
