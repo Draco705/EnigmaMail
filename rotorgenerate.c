@@ -75,6 +75,6 @@ bool isThere(int rotor[], int size, int input){
             break;
         }
     }
-    printf("Is it there? %s\n", isitThere ? "true":"false");
+    //printf("Is it there? %s\n", isitThere ? "true":"false");
     return isitThere;
 }
