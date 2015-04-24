@@ -5,7 +5,7 @@ int main(int argc, char* argv[]){
 
     FILE *rotors = fopen("rotors.txt", "rb");
     FILE *decrypt = fopen("decrypt.txt", "w"); //Opens the decryption file for writing the actual message
-    FILE *adjust = fopen("adjust.bin", "r");
+    FILE *adjust = fopen("adjust.txt", "r");
 
     if(argc != 2){
         printf("Error! Not enough arguments!\n");
@@ -53,16 +53,10 @@ int main(int argc, char* argv[]){
         adjuster[i] = 0;
     }
 
-    char ins;
-
-    while(ins != EOF){
-        ins = fgetc(adjust);
-        if(ins != '\n'){
-            adjuster[i] = ins;
-            ++i;
-            printf("Ins: %c, ", ins);
-            printf("%u\n", adjuster[i]);
-        }
+    while(!feof(adjust)){
+        fscanf(adjust, "%d ", &adjuster[i]);
+        printf("%d, ", adjuster[i]);
+        ++i;
     }
 
     fclose(adjust);
@@ -82,10 +76,9 @@ int main(int argc, char* argv[]){
           continue;
         }
 
-        printf("Before first shift: %u, ", adjuster[i]);
+        printf("Before first shift: %d, ", adjuster[i]);
         orig = adjuster[i];
         adjuster[i] = adjuster[i] >> 1;
-        adjuster[i] = adjuster[i] && 4294967295;
         printf("%u, ", adjuster[i]);
         
         printf("Orig: %c     ", input[i]);

@@ -5,7 +5,7 @@ int main(int argc, char* argv[]){
 
     FILE *rotors = fopen("rotors.txt", "rb");
     FILE *eMessage = fopen("encryptedMessage.txt", "w");
-    FILE *adjust = fopen("adjust.bin", "w");
+    FILE *adjust = fopen("adjust.txt", "w");
     
     if(argc != 2){
         printf("Error! Not enough arguments!\n");
@@ -140,7 +140,7 @@ int main(int argc, char* argv[]){
         }
 
         fputc(letter, eMessage);
-        fputc(adjuster[i], adjust);
+        fprintf(adjust, "%d ", adjuster[i]);
         fputc('\n', adjust);
 
     }
